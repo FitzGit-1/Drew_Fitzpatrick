@@ -1,2 +1,2 @@
 # Drew_Fitzpatrick
-A GitHub repository showcasing active and completed projects, certifications, case studies, and a cybersecurity toolbelt for incident response
+A GitHub repository showcasing Drew Fitzpatrick's active & completed projects, Trainings & certifications, case studies, and his cybersecurity toolbelt used for incident response. 
